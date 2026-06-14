@@ -2,7 +2,7 @@
 I'm a Network Engineer based in Berlin.    
 I speak German and English and I use this GitHub to showcase and store my personal projects.  
 My current goals are breaking into DevOps, enhancing my automation skills by doing more GitHub projects and  
-if possible, have some fun along the way as I grow and learn!
+if possible, to have some fun along the way as I grow and learn!
 
 ## About me
 - Working as: Network Engineer focused on operations and infrastructure stability.  
