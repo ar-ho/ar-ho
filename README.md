@@ -10,7 +10,7 @@ I'm currently focused on breaking into DevOps and enhancing my automation skills
 - Interested in: Automation, Scripting, Infrastructure as Code and DevOps practices.  
 
 ## Currently working on  
-- Improving my coding and DevOps skills through [boot.dev](boot.dev)  
+- Improving my coding and DevOps skills through [boot.dev](https://boot.dev)  
   (They launched a great DevOps learning path by the way!)   
 - Creating a "pocketknife" automation script for network engineering that can handle multiple tasks.  
 
