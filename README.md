@@ -8,8 +8,7 @@ if possible, have some fun along the way as I grow and learn!
 - Working as: Network Engineer focused on operations and infrastructure stability.  
 - Certifications: CCNP, CCNA - Automation and adding more with a focus on automation and DevOps of course.  
 - Working with: Cisco Networking, Python, Linux, Terraform.  
-- Interested in: Automation, Scripting, Infrastructure as Code and DevOps practices.
-- Goals: Contribute more personal projects to GitHub and have some fun along the way as I grow and learn!   
+- Interested in: Automation, Scripting, Infrastructure as Code and DevOps practices.  
 
 ## Currently working on  
 - Improving my coding and DevOps skills through [boot.dev](https://boot.dev)  
