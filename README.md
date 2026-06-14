@@ -10,15 +10,15 @@ I'm currently focused on breaking into DevOps and enhancing my automation skills
 - Interested in: Automation, Scripting, Infrastructure as Code and DevOps practices.  
 
 ## Currently working on  
-- Improving my coding and DevOps skills through boot.dev  
-  (They launched a great DevOps learning path by the way)   
+- Improving my coding and DevOps skills through [boot.dev](boot.dev)  
+  (They launched a great DevOps learning path by the way!)   
 - Creating a "pocketknife" automation script for network engineering that can handle multiple tasks.  
 
 ## Books I'm reading  
-- Automate the Boring Stuff wit Python by Al Sweigart  
-- Ansible - The Practical Guide for Administrators and DevOps Teams  
+- [Automate the Boring Stuff wit Python by Al Sweigart](https://automatetheboringstuff.com/)  
+- [Ansible - The Practical Guide for Administrators and DevOps Teams by Axel Miesen](https://www.rheinwerk-verlag.de/ansible-the-practical-guide-for-administrators-and-devops-teams/)  
 
 ## Goals
-- Transition deeper into DevOps / platform engineering.  
-- Build stronger automation-first workflows for network operations.  
-- Contribute more personal projects to GitHub as I learn.  
+- Transition deeper into DevOps and platform engineering.  
+- Contribute more personal projects to GitHub as I learn and grow.  
+- And to have some fun along the way!  
