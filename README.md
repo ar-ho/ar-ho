@@ -1,17 +1,16 @@
 # Hi there, I'm Arne 👋
 I'm a Network Engineer based in Berlin.    
 I speak German and English and I use this GitHub to showcase and store my personal projects.  
-My current goals are breaking into DevOps, enhancing my automation skills by doing more GitHub projects and  
-if possible, to have some fun along the way as I grow and learn!
+My current goals are enhancing my automation skills by doing more GitHub projects and if possible, to have some fun along the way as I grow and learn!
 
 ## About me
 - Working as: Network Engineer focused on operations and infrastructure stability.  
-- Certifications: CCNP, CCNA - Automation and adding more with a focus on automation and DevOps of course.  
+- Certifications: CCNP, CCNA - Automation and adding more with a focus on automation.
 - Working with: Cisco Networking, Python, Linux, Terraform.  
-- Interested in: Automation, Scripting, Infrastructure as Code and DevOps practices.  
+- Interested in: Automation, Scripting, Infrastructure as Code practices.  
 
 ## Currently working on  
-- Improving my coding and DevOps skills through [boot.dev](https://boot.dev)  
+- Improving my coding and automation skills through [boot.dev](https://boot.dev)  
   (They launched a great DevOps learning path by the way!)   
 - Creating a "pocketknife" automation script for network engineering that can handle multiple tasks.  
 
