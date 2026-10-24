@@ -12,7 +12,8 @@ My current goals are enhancing my automation skills by doing more GitHub project
 ## Currently working on  
 - Improving my coding and automation skills through [boot.dev](https://boot.dev)  
   (They launched a great DevOps learning path by the way!)   
-- Creating a "pocketknife" automation script for network engineering that can handle multiple tasks.  
+- Learning AI-coding with Opencode and ClaudeCode.
+- Diving into the Meraki-API building small tools to aide in my daily tasks as a network engineer.
 
 ## Books I'm reading  
 - [Automate the Boring Stuff wit Python by Al Sweigart](https://automatetheboringstuff.com/)  
