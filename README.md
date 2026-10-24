@@ -12,7 +12,7 @@ My current goals are enhancing my automation skills by doing more GitHub project
 ## Currently working on  
 - Improving my coding and automation skills through [boot.dev](https://boot.dev)  
   (They launched a great DevOps learning path by the way!)   
-- Learning AI-coding with Opencode and ClaudeCode.
+- Learning AI-coding with OpenCode and ClaudeCode.
 - Diving into the Meraki-API building small tools to aide in my daily tasks.
 
 ## Books I'm reading  
